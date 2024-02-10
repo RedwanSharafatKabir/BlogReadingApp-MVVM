@@ -1,0 +1,7 @@
+com.quiz.app.test.app-jetified-annotation-experimental-1.3.0-0 C:\Users\User\.gradle\caches\transforms-3\5ce68236d4627dc51ce2eb47daaf34f7\transformed\jetified-annotation-experimental-1.3.0\res
+com.quiz.app.test.app-jetified-core-1.5.0-1 C:\Users\User\.gradle\caches\transforms-3\c6af8ac79f360a0187de72a59e32a4ef\transformed\jetified-core-1.5.0\res
+com.quiz.app.test.app-androidTest-2 D:\Android Projects with Kotlin\Quiz-App-MVVM\app\build\generated\res\resValues\androidTest\debug
+com.quiz.app.test.app-androidTest-3 D:\Android Projects with Kotlin\Quiz-App-MVVM\app\build\generated\res\rs\androidTest\debug
+com.quiz.app.test.app-mergeDebugAndroidTestResources-4 D:\Android Projects with Kotlin\Quiz-App-MVVM\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.quiz.app.test.app-mergeDebugAndroidTestResources-5 D:\Android Projects with Kotlin\Quiz-App-MVVM\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.quiz.app.test.app-merged_res-6 D:\Android Projects with Kotlin\Quiz-App-MVVM\app\build\intermediates\merged_res\debugAndroidTest

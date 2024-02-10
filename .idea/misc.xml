@@ -1,10 +1,94 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ExternalStorageConfigurationManager" enabled="true" />
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/... FQ Projects/paribahanlagbeclient/app/src/main/res/drawable/red_curved_shape.xml" value="0.2165" />
+        <entry key="..\:/... FQ Projects/paribahanlagbeclient/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/... FQ Projects/paribahanlagbeclient/app/src/main/res/layout/autocomplete_list_adapter.xml" value="0.209375" />
+        <entry key="..\:/... FQ Projects/paribahanlagbeclient/app/src/main/res/layout/bottom_sheet_car_list_page.xml" value="0.22" />
+        <entry key="..\:/... FQ Projects/paribahanlagbeclient/app/src/main/res/layout/fragment_bidder_list.xml" value="0.209375" />
+        <entry key="..\:/... FQ Projects/paribahanlagbeclient/app/src/main/res/layout/fragment_create_trips.xml" value="0.22" />
+        <entry key="..\:/... FQ Projects/paribahanlagbeclient/app/src/main/res/layout/fragment_enter_location.xml" value="0.22" />
+        <entry key="..\:/... FQ Projects/paribahanlagbeclient/app/src/main/res/layout/fragment_profile.xml" value="0.18518518518518517" />
+        <entry key="..\:/... FQ Projects/paribahanlagbeclient/app/src/main/res/layout/fragment_trips.xml" value="0.209375" />
+        <entry key="..\:/... FQ Projects/paribahanlagbeclient/app/src/main/res/layout/fragment_trips_details.xml" value="0.22" />
+        <entry key="..\:/... FQ Projects/paribahanlagbeclient/app/src/main/res/layout/fragment_trucks.xml" value="0.209375" />
+        <entry key="..\:/... FQ Projects/paribahanlagbeclient/app/src/main/res/layout/fragment_welcome.xml" value="0.1" />
+        <entry key="..\:/... FQ Projects/paribahanlagbeclient/app/src/main/res/layout/fragment_welcome_for_animation.xml" value="0.209375" />
+        <entry key="..\:/Projects/Android/PoribohonLagbeClient/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Android/PoribohonLagbeClient/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Android/PoribohonLagbeClient/app/src/main/res/layout/fragment_inbox.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Android/PoribohonLagbeClient/app/src/main/res/layout/fragment_welcome.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Android/PoribohonLagbeClient/app/src/main/res/layout/fragment_welcome_for_animation.xml" value="0.35260416666666666" />
+        <entry key="..\:/Projects/Android/PoribohonLagbeClient/app/src/main/res/layout/itemaddress.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Android/PoribohonLagbeClient/app/src/main/res/layout/itemalltrips.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Android/PoribohonLagbeClient/app/src/main/res/layout/list_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/drawable-v24/upperonly2.xml" value="0.327" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/drawable/blue_border.xml" value="0.327" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/drawable/blur_editext.xml" value="0.327" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/drawable/border_black.xml" value="0.327" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/drawable/circle_border.xml" value="0.327" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/drawable/circlebackground.xml" value="0.327" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/drawable/curved_red_blur_shape.xml" value="0.3295" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/drawable/curved_white_shape.xml" value="0.3295" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/drawable/oval.xml" value="0.327" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/drawable/oval2.xml" value="0.327" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/drawable/red_circle.xml" value="0.327" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/drawable/red_curved_border.xml" value="0.327" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/drawable/red_curved_shape.xml" value="0.327" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/drawable/upperonly.xml" value="0.327" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/drawable/white_border.xml" value="0.327" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/drawable/white_curved_background.xml" value="0.327" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/layout/autocomplete_list_adapter.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/layout/car_list_adapter.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/layout/fragment_add_address.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/layout/fragment_address_book.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/layout/fragment_bidder_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/layout/fragment_campain.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/layout/fragment_create_trips.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/layout/fragment_enter_location.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/layout/fragment_f_a_q.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/layout/fragment_full_profile_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/layout/fragment_hire_car.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/layout/fragment_inbox.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/layout/fragment_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/layout/fragment_look_for_ride.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/layout/fragment_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/layout/fragment_registration.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/layout/fragment_settings.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/layout/fragment_slide.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/layout/fragment_trips_details.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/layout/fragment_trips_history.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/layout/fragment_video_guide.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/layout/fragment_welcome.xml" value="0.36102564102564105" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/layout/fragment_welcome_for_animation.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/layout/itemaddress.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/layout/itemalltrips.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/layout/list_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3295" />
+        <entry key="..\:/Projects/Client Works/paribahanlagbeclient/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3295" />
+        <entry key="..\:/Projects/PoribohonLagbeClient/app/src/main/res/drawable-v24/border_black.xml" value="0.35625" />
+        <entry key="..\:/Projects/PoribohonLagbeClient/app/src/main/res/drawable-v24/curved_red_blur_shape.xml" value="0.35625" />
+        <entry key="..\:/Projects/PoribohonLagbeClient/app/src/main/res/drawable-v24/ic_baseline_directions_car_24.xml" value="0.19895833333333332" />
+        <entry key="..\:/Projects/PoribohonLagbeClient/app/src/main/res/drawable-v24/ic_baseline_wrong_unload.xml" value="0.19895833333333332" />
+        <entry key="..\:/Projects/PoribohonLagbeClient/app/src/main/res/layout/activity_main.xml" value="0.31875" />
+        <entry key="..\:/Projects/PoribohonLagbeClient/app/src/main/res/layout/bottomnavigation.xml" value="0.3359375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.36102564102564105" />
+      </ProjectState>
+    </option>
   </component>
 </project>

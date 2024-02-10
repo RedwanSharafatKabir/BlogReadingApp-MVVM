@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/primary1"
+    tools:context=".fragment.QuestionFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="100">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_6sdp"
+            android:orientation="vertical"
+            android:background="@color/white"
+            android:layout_marginTop="@dimen/_5sdp"
+            android:gravity="center">
+
+            <ProgressBar
+                android:id="@+id/answerProgress"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_5sdp"
+                style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+                android:progressDrawable="@drawable/custom_progressbar"
+                android:max="80"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="@color/white"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:weightSum="100">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_weight="50"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="@dimen/_5sdp"
+                android:gravity="center">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Question: "
+                    android:textColor="@color/primary1"
+                    android:textSize="18sp"
+                    android:layout_gravity="center"
+                    android:textStyle="bold"/>
+
+                <TextView
+                    android:id="@+id/questionNumber"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="0/10"
+                    android:textColor="@color/primary1"
+                    android:textSize="18sp"
+                    android:layout_gravity="center"
+                    android:textStyle="bold"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_weight="50"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="@dimen/_5sdp"
+                android:gravity="center">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Score: "
+                    android:textColor="@color/primary1"
+                    android:textSize="18sp"
+                    android:layout_gravity="center"
+                    android:textStyle="bold"/>
+
+                <TextView
+                    android:id="@+id/scoreResult"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="0"
+                    android:textColor="@color/primary1"
+                    android:textSize="18sp"
+                    android:layout_gravity="center"
+                    android:textStyle="bold"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@drawable/white_curved_shape"
+            android:layout_margin="@dimen/_10sdp"
+            android:padding="@dimen/_10sdp">
+
+            <TextView
+                android:id="@+id/questionPoint"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Question: "
+                android:textColor="@color/primary1"
+                android:textSize="18sp"
+                android:layout_gravity="center"
+                android:textStyle="bold"/>
+
+            <ImageView
+                android:id="@+id/questionImage"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_120sdp"
+                android:src="@drawable/app_logo" />
+
+            <TextView
+                android:id="@+id/questionText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Question?"
+                android:textColor="@color/primary1"
+                android:textSize="18sp"
+                android:gravity="center"
+                android:textStyle="bold"/>
+
+        </LinearLayout>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/questionList"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/_5sdp"/>
+
+    </LinearLayout>
+
+</androidx.core.widget.NestedScrollView>
