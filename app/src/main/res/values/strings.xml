@@ -1,6 +1,3 @@
 <resources>
-    <string name="app_name" translatable="false">Quiz App</string>
-
-    <string name="base_url" translatable="false">https://herosapp.nyc3.digitaloceanspaces.com/</string>
-
+    <string name="app_name">BlogReadingApp-MVVM</string>
 </resources>
