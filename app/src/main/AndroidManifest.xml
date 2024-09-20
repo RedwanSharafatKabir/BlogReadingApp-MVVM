@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
     <uses-permission android:name="android.permission.INTERNET"/>
 
@@ -14,7 +13,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BlogReadingAppMVVM">
         
-        <activity android:name=".MainActivity"
+        <activity android:name=".presentation.MainActivity"
             android:screenOrientation="portrait"
             android:exported="true">
 
@@ -24,7 +23,11 @@
             </intent-filter>
 
         </activity>
-        
+
+        <activity android:name=".presentation.BlogDetailsActivity"
+            android:screenOrientation="portrait"
+            android:exported="true"/>
+
     </application>
     
 </manifest>

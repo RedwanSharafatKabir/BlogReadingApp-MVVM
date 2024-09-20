@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">BlogReadingApp-MVVM</string>
+    <string name="app_name">Blog Reader</string>
+
 </resources>
