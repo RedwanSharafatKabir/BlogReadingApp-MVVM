@@ -1,4 +1,6 @@
 <resources>
-    <string name="app_name">Blog Reader</string>
-
+    <string name="app_name">Flash Feed</string>
+    <string name="baseUrl">https://newsapi.org/v2/</string>
+    <string name="apiKey">bef0ebc1ef3e48c8b627e89c1da4bdc2</string>
+    <string name="flash_feed">Flash Feed</string>
 </resources>
